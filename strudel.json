@@ -1,9 +1,14 @@
 {
-	"_base": "https://notacat222.github.io/strudelsamples/",
-	"speech": [
-		"dream.wav",
-	],
-	"ambient": [
-		"liara.wav"
-	]
+  "_base": "https://raw.githubusercontent.com/notacat222/strudelsamples/refs/heads/main/strudel.json",
+  "dream": [
+    "dream.wav",
+    "crawling.wav"
+  ],
+  "amb": [
+    "liara.wav",
+    "ing.wav"
+  ],
+  "squeeze": [
+    "squeezing.wav"
+  ]
 }
