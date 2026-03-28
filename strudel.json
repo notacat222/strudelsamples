@@ -1,11 +1,9 @@
 {
-	"_base": "https://melaniehuang.github.io/codejamassets/",
-	"glass": [
-		"airy-bow.wav",
-		"goblet-bow.wav",
-		"improv.wav"
+	"_base": "https://github.com/notacat222",
+	"speech": [
+		"dream.wav",
 	],
 	"ambient": [
-		"ambient-arp.wav"
+		"liara.wav"
 	]
 }
