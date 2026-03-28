@@ -1,5 +1,5 @@
 {
-  "_base": "https://raw.githubusercontent.com/notacat222/strudelsamples/refs/heads/main/strudel.json",
+  "_base": "https://raw.githubusercontent.com/notacat222/strudelsamples/master",
   "dream": [
     "dream.wav",
     "crawling.wav"
