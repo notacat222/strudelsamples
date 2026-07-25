@@ -10,5 +10,23 @@
   ],
   "squeeze": [
     "squeezing.wav"
+  ],
+  "sleepy":[
+    "n_roll_min.wav",
+    "n_roll_maj.wav",
+    "n_meridian.wav",
+    "n_mazel.wav",
+    "n_hide.wav",
+    "n_droid.wav",
+    "n_dis_min.wav",
+    "n_dis_maj.wav",
+    "n_deny.wav",
+    "n_delay_fx.wav",
+    "n_confirm.wav",
+    "n_commit.wav",
+    "n_bowl.wav",
+    "n_blue_marble.wav",
+    "n_back.wav",
+    "n_ascend.wav"
   ]
 }
