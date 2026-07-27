@@ -4,6 +4,9 @@
     "dream.wav",
     "crawling.wav"
   ],
+   "breath": [
+    "breathing.wav",
+   ],
   "amb": [
     "liara.wav",
     "ing.wav"
