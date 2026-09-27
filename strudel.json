@@ -7,6 +7,9 @@
    "breath": [
     "breathing.wav",
    ],
+  "wind":[
+    "unnamed-wind3.mp3",
+  ],
   "amb": [
     "liara.wav",
     "ing.wav"
